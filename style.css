@@ -154,7 +154,7 @@ section .title::after{
 .scroll-up-btn:hover{
     filter: brightness(90%);
 }
-/* home section styling */
+/* home section premium styling */
 .home{
     display: flex;
     background: url("images/bg4.jpg") no-repeat center;
@@ -397,7 +397,7 @@ section .title::after{
 /* teams section styling */
 .teams .title::after{
     background: rgb(14 14 71);
-    content: "Premium photos";
+    content: "Premium";
 }
 .teams .carousel .card{
     background:#3d27a0;
